@@ -7,7 +7,7 @@
   A ideia é execitar conceitos de métodos de manipulação de texto, técnicas de repetição eficientes, manipulação de datas e horas.
 </p>
 
-# Rodando o Projeto
+### Rodando o Projeto
 <p>
   Instale o plugin [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). No canto inferior direito da tela 
   precione o botão go live para executar o projeto
